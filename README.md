@@ -5,7 +5,7 @@ This repository contains the code for the Learn Webpack series of articles. Each
 
 ## Branches
 
-**main**: Latest Cpde 
++ **main**: Latest Code for the **Learn Webpack in React Js | A step-by-step Guide 2022-2023** Series 
 + **article_part_1**: [Learn Webpack in React Js | A step-by-step Guide 2022 ( Part-I )](https://medium.com/@umairawan706/learn-webpack-in-react-js-a-step-by-step-guide-2022-part-i-9aaf7d6f6cb8)
 + **article_part_1**: [Learn Webpack in React Js | A step-by-step Guide 2022 ( Part-II )](https://medium.com/@umairawan706/learn-webpack-in-react-js-a-step-by-step-guide-2022-part-ii-963aef443ba1)
 + **article_part_1**: [Learn Webpack in React Js | A step-by-step Guide 2022 (Part-III)](https://medium.com/@umairawan706/learn-webpack-in-react-js-a-step-by-step-guide-2022-part-iii-ec241ceede8b)
